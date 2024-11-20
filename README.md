@@ -20,7 +20,7 @@
 
 1. **安装插件**：在微信中搜索并添加 ChatGPT on WeChat 插件。
    ```
-   #installp https://github.com/xiaoqidaov2/member_monitor.git
+   #installp https://github.com/xiaoqidaov2/MemberMonitor.git
    ```
 2. **启动监控**：使用以下命令启动群成员监控。
    ```
