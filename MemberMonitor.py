@@ -10,6 +10,7 @@ from common.log import logger
 from config import conf
 from plugins import *
 
+
 @register(
     name="MemberMonitor",
     desc="监控群成员变化(gewecaht版本兼容)",
